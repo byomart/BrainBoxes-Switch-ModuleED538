@@ -25,7 +25,7 @@ A fin de controlar las salidas del conmutador, vamos a crear una serie de endpoi
 <img width="750" alt="Configuración IP del módulo ED-538" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/6db2a66c-4ef5-4f43-a3fc-b809cf488938">
 </p>
 
-- **Encender una salida**
+a) **Encender una salida**
 
   En este caso, para encender una salida debemos cerrar dicha salida para favorecer el paso corriente. Las dos imágenes siguientes muestran el correcto funcionamiento del endpoint ("_encender_RL0_") así como el RL0 cerrado.
 
@@ -40,6 +40,8 @@ A fin de controlar las salidas del conmutador, vamos a crear una serie de endpoi
   
 b) **Apagar salida**
 
+  En este caso, para apagar una salida debemos abrir dicha salida para que no haya paso de corriente. Las dos imágenes siguientes muestran el correcto funcionamiento del endpoint (_apagar_RL0_) así como el RL0 abierto.
+
 <p align="center">
 <img width="750" alt="apagar_salida(abrir)" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/d1efd45d-5d9f-4a20-9e25-8e0d06af4107">
 </p>
@@ -53,6 +55,8 @@ b) **Apagar salida**
 
 
 c) **Encender/Apagar varias salidas**
+
+A modo de ejemplo, vamos a 
 
 <p align="center">
 <img width="750" alt="especificar_accion" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/8cd23b80-dc46-4f54-91bf-262d4089ba0f">
