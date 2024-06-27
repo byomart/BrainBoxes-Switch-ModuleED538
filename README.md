@@ -15,6 +15,9 @@
 <img width="750" alt="enceneder_salida(abrir)" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/3e309883-3a19-44af-98bf-4492ea9670f3">
 </p>
 
+<p align="center">
+<img width="750" alt="RL0 cerrado" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/215b4e83-d9af-4251-b4b4-626e8ab46b7a">
+</p>
 
 
 
