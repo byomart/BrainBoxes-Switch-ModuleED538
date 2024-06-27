@@ -12,3 +12,7 @@
 </p>
 
 
+<p align="center">
+<img width="750" alt="Configuración IP del módulo ED-538" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/8cd23b80-dc46-4f54-91bf-262d4089ba0f">
+</p>
+
