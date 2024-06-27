@@ -79,3 +79,5 @@ Para mayor facilidad de uso, listaremos todas las acciones posibles a realizar s
 </p>
 
 
+Por último, destacamos que las acciones a realizar sobre las salidas se llevan a cabo mediante instrucciones ASCII configuradas a partir del manual del fabricante.
+
