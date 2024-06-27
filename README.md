@@ -8,6 +8,8 @@
 
 ## Puesta en marcha del módulo ED-538
 
+### Configuración IP
+
 El módulo ED-538 de BrainBoxes es un multiconmutador con 8 entradas digitales y 4 salidas. Leyendo el manual del fabricante vemos que el propio dispositivo dispone de una API, por lo que comenzamos conectándonos por cable Ethernet al dispositivo, forzando la dirección de nuestro equipo dentro de la red establecida por defecto para el propio conmutador (192.168.127.254). Así pues, le damos a nuestro equipo una dirección para que llegue al dispositivo, por ejemplo la 192.168.127.17. Una vez en la misma red, podemos abrir la API del módulo escribiendo su dirección IP en el navegador web, y se muestra la siguiente pestaña, en la que podemos modificar a nuestro gusto la dirección IP del dispositivo.
 
 <p align="center">
