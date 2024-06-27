@@ -11,6 +11,12 @@
 <img width="750" alt="Configuración IP del módulo ED-538" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/6db2a66c-4ef5-4f43-a3fc-b809cf488938">
 </p>
 
+<p align="center">
+<img width="750" alt="enceneder_salida(abrir)" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/3e309883-3a19-44af-98bf-4492ea9670f3">
+</p>
+
+
+
 
 <p align="center">
 <img width="750" alt="apagar_salida(abrir)" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/d1efd45d-5d9f-4a20-9e25-8e0d06af4107">
