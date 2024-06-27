@@ -2,7 +2,7 @@
 
 ## Módulo ED-538
 
-El módulo ED-538 de BrainBoxes es un multiconmutador con 8 entradas digitales y 4 salidas. 
+El dispositivo ED-538 de BrainBoxes es un multiconmutador con 8 entradas digitales y 4 salidas. 
 
 <p align="center">
 <img width="150" alt="Módulo ED-538" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/9608af6e-dcb6-4f5d-a421-265ff34dba2c">
