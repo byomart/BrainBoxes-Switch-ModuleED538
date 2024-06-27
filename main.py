@@ -3,22 +3,22 @@ from fastapi import FastAPI
 import uvicorn
 
 
-app = FastAPI(title="Cervus III Multiconmutador API", 
+app = FastAPI(title="Multiconmutador API", 
               version="0.1")
               
 
-@app.post("/apagar_amplificador")
+@app.post("/apagar_RL0")
 def amplifiadores():
     return controlar_salidas(accion = 'abrir todas') 
 
-@app.post("/encender_amplificador")
+@app.post("/encender_RL0")
 def amplifiadores():
     return controlar_salidas(accion = 'cerrar salida 0') 
 
-# # si queremos especificar la 'accion':
-# @app.post("/encender_amplificador")
-# def amplifiadores(accion: str = 'cerrar salida 0'):
-#     return controlar_salidas(accion) 
+# si queremos especificar la 'accion':
+@app.post("/especificar_accion")
+def amplifiadores(accion: str = 'cerrar salida 0'):
+    return controlar_salidas(accion) 
 
 @app.get("/listar_acciones")
 def listar_acciones():
