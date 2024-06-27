@@ -17,7 +17,7 @@ El módulo ED-538 de BrainBoxes es un multiconmutador con 8 entradas digitales y
 </p>
 
 
-### Control de salidas mediante API
+### Control de salidas por API
 <p align="center">
 <img width="750" alt="Configuración IP del módulo ED-538" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/6db2a66c-4ef5-4f43-a3fc-b809cf488938">
 </p>
