@@ -3,7 +3,7 @@
 ## Módulo ED-538
 
 <p align="center">
-<img width="750" alt="Módulo ED-538" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/9608af6e-dcb6-4f5d-a421-265ff34dba2c">
+<img width="450" alt="Módulo ED-538" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/9608af6e-dcb6-4f5d-a421-265ff34dba2c">
 </p>
 
 ## Puesta en marcha del módulo ED-538
