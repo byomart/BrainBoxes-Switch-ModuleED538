@@ -1,6 +1,6 @@
-from fastapi import FastAPI
 from Brainboxes_Test import controlar_salidas
-
+from fastapi import FastAPI
+import uvicorn
 
 
 app = FastAPI(title="Cervus III Multiconmutador API", 
@@ -15,6 +15,7 @@ def amplifiadores():
 def amplifiadores():
     return controlar_salidas(accion = 'cerrar salida 0') 
 
+# # si queremos especificar la 'accion':
 # @app.post("/encender_amplificador")
 # def amplifiadores(accion: str = 'cerrar salida 0'):
 #     return controlar_salidas(accion) 
@@ -42,6 +43,8 @@ def listar_acciones():
     return {"acciones_disponibles": acciones}
 
 
+if __name__ == "__main__":
+    uvicorn.run("main:app", host="localhost", port=8010, log_level="debug", reload=True)			     
 
 
 
