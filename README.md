@@ -13,20 +13,23 @@
 
 
 <p align="center">
-<img width="750" alt="Configuración IP del módulo ED-538" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/8cd23b80-dc46-4f54-91bf-262d4089ba0f">
+<img width="750" alt="apagar_salida(abrir)" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/d1efd45d-5d9f-4a20-9e25-8e0d06af4107">
 </p>
 
 
 <p align="center">
-<img width="750" alt="Configuración IP del módulo ED-538" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/d1efd45d-5d9f-4a20-9e25-8e0d06af4107">
+<img width="750" alt="RL0 abierto" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/bae4a23a-237b-4849-9dc7-e57eac0a6346">
+</p>
+
+
+<p align="center">
+<img width="750" alt="especificar_accion" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/8cd23b80-dc46-4f54-91bf-262d4089ba0f">
 </p>
 
 
 
-
-
 <p align="center">
-<img width="750" alt="Configuración IP del módulo ED-538" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/2e1bfd04-aa98-45c2-b65d-4b0feaba264b">
+<img width="750" alt="0,1,2 cerrados" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/2e1bfd04-aa98-45c2-b65d-4b0feaba264b">
 </p>
 
 
