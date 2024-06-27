@@ -42,3 +42,8 @@
 </p>
 
 
+<p align="center">
+<img width="750" alt="Listar acciones" src="https://github.com/fbayomartinez/BrainBoxes-switch/assets/163590683/87e73e5d-df70-4a21-9d31-14f896b480db">
+</p>
+
+
